@@ -64,6 +64,8 @@ The Hack Day is organized by SPIE and run on the day by `Sarah Kendrew <http://w
 .. toctree::
    :maxdepth: 1
 
+   Resources/Resources
+
 +---+
 |   |
 +---+
